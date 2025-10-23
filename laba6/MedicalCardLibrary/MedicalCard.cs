@@ -17,7 +17,7 @@ namespace MedicalCardLibrary
 
         public void Delete(Appointment appointment)
         {
-        appointments.Remove(appointment);
+            appointments.Remove(appointment);
         }
         
         public List<string> GetDoctorsDate(string date)
