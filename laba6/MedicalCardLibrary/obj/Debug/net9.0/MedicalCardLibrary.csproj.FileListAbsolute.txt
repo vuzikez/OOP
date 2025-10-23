@@ -1,0 +1,11 @@
+D:\Курсы\Homework\Laba6\MedicalCardLibrary\bin\Debug\net9.0\MedicalCardLibrary.deps.json
+D:\Курсы\Homework\Laba6\MedicalCardLibrary\bin\Debug\net9.0\MedicalCardLibrary.dll
+D:\Курсы\Homework\Laba6\MedicalCardLibrary\bin\Debug\net9.0\MedicalCardLibrary.pdb
+D:\Курсы\Homework\Laba6\MedicalCardLibrary\obj\Debug\net9.0\MedicalCardLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курсы\Homework\Laba6\MedicalCardLibrary\obj\Debug\net9.0\MedicalCardLibrary.AssemblyInfoInputs.cache
+D:\Курсы\Homework\Laba6\MedicalCardLibrary\obj\Debug\net9.0\MedicalCardLibrary.AssemblyInfo.cs
+D:\Курсы\Homework\Laba6\MedicalCardLibrary\obj\Debug\net9.0\MedicalCardLibrary.csproj.CoreCompileInputs.cache
+D:\Курсы\Homework\Laba6\MedicalCardLibrary\obj\Debug\net9.0\MedicalCardLibrary.dll
+D:\Курсы\Homework\Laba6\MedicalCardLibrary\obj\Debug\net9.0\refint\MedicalCardLibrary.dll
+D:\Курсы\Homework\Laba6\MedicalCardLibrary\obj\Debug\net9.0\MedicalCardLibrary.pdb
+D:\Курсы\Homework\Laba6\MedicalCardLibrary\obj\Debug\net9.0\ref\MedicalCardLibrary.dll

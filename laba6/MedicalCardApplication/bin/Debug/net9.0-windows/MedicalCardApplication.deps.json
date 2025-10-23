@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "MedicalCardApplication/1.0.0": {
+        "dependencies": {
+          "MedicalCardLibrary": "1.0.0"
+        },
+        "runtime": {
+          "MedicalCardApplication.dll": {}
+        }
+      },
+      "MedicalCardLibrary/1.0.0": {
+        "runtime": {
+          "MedicalCardLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MedicalCardApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MedicalCardLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
