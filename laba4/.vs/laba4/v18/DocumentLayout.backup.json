@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\OPP\\laba4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC17A04-B259-49E1-A9EA-5CC943AA24BC}|NumberApplication\\NumberApplication.csproj|f:\\opp\\laba4\\numberapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC17A04-B259-49E1-A9EA-5CC943AA24BC}|NumberApplication\\NumberApplication.csproj|solutionrelative:numberapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B987310-B7C0-4F3E-B518-262378843105}|NumStrLibrary\\NumStrLibrary.csproj|f:\\opp\\laba4\\numstrlibrary\\strnumlib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B987310-B7C0-4F3E-B518-262378843105}|NumStrLibrary\\NumStrLibrary.csproj|solutionrelative:numstrlibrary\\strnumlib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StrNumLib.cs",
+              "DocumentMoniker": "F:\\OPP\\laba4\\NumStrLibrary\\StrNumLib.cs",
+              "RelativeDocumentMoniker": "NumStrLibrary\\StrNumLib.cs",
+              "ToolTip": "F:\\OPP\\laba4\\NumStrLibrary\\StrNumLib.cs",
+              "RelativeToolTip": "NumStrLibrary\\StrNumLib.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T08:14:48.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\OPP\\laba4\\NumberApplication\\Program.cs",
+              "RelativeDocumentMoniker": "NumberApplication\\Program.cs",
+              "ToolTip": "F:\\OPP\\laba4\\NumberApplication\\Program.cs",
+              "RelativeToolTip": "NumberApplication\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwCEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T07:18:22.705Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

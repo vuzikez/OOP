@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>StrBuilderIPv4</name>
+    </assembly>
+    <members>
+        <member name="T:StrBuilderIPv4.StrBuilderIP">
+            <summary>
+            Предоставляет методы для работы с IPv4 адресами в строковом представлении
+            </summary>
+        </member>
+        <member name="M:StrBuilderIPv4.StrBuilderIP.SortIpv4(System.Text.StringBuilder)">
+            <summary>
+            Сортирует IPv4 адреса по классам и возвращает словарь с отсортированными списками адресов для каждого класса
+            </summary>
+            <param name="str">StringBuilder содержащий текст с IPv4 адресами</param>
+            <returns>Словарь, где ключ - класс IP-адреса (A, B, C, D, E, U), значение - отсортированный список адресов этого класса</returns>
+        </member>
+        <member name="M:StrBuilderIPv4.StrBuilderIP.IsValid(System.String)">
+            <summary>
+            Проверяет валидность IPv4 адреса
+            </summary>
+            <param name="str">Строка с IPv4 адресом для проверки</param>
+            <returns>True если все октеты адреса находятся в диапазоне от 0 до 255, иначе False</returns>
+        </member>
+        <member name="M:StrBuilderIPv4.StrBuilderIP.CreateStr">
+            <summary>
+            Создает StringBuilder из строки, введенной пользователем
+            </summary>
+            <returns>StringBuilder с введенной пользователем строкой</returns>
+            <exception cref="T:System.Exception">Выбрасывается когда введена пустая строка или null</exception>
+        </member>
+        <member name="M:StrBuilderIPv4.StrBuilderIP.GetIpClass(System.String)">
+            <summary>
+            Определяет класс IPv4 адреса
+            </summary>
+            <param name="ip">IPv4 адрес для классификации</param>
+            <returns>
+            Символ, обозначающий класс адреса:
+            'A' - класс A (1-126),
+            'B' - класс B (128-191), 
+            'C' - класс C (192-223),
+            'D' - класс D (224-239),
+            'E' - класс E (240-255),
+            'U' - неизвестный класс
+            </returns>
+        </member>
+    </members>
+</doc>

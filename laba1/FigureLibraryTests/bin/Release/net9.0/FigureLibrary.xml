@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FigureLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:FigureLibrary.Circle">
+            <summary>
+            Представляет окружность, описанную вокруг квадрата
+            Окружность определяется четырьмя точками - вершинами квадрата
+            </summary>
+        </member>
+        <member name="M:FigureLibrary.Circle.#ctor(FigureLibrary.Point[])">
+            <summary>
+            Инициализирует новый экземпляр класса Circle с указанными точками
+            </summary>
+            <param name="points">Массив из четырех точек, представляющих вершины квадрата</param>
+            <exception cref="T:System.ArgumentException">Вызывается, если points равен null или количество точек не равно 4</exception>
+        </member>
+        <member name="M:FigureLibrary.Circle.GetCenterPoint">
+            <summary>
+            Вычисляет центр окружности
+            </summary>
+            <returns>Точка центра окружности</returns>
+        </member>
+        <member name="M:FigureLibrary.Circle.GetRadius">
+            <summary>
+            Вычисляет радиус окружности
+            </summary>
+            <returns>Радиус окружности</returns>
+        </member>
+        <member name="M:FigureLibrary.Circle.IsSquare(FigureLibrary.Point[])">
+            <summary>
+            Проверяет, образуют ли точки квадрат
+            </summary>
+            <param name="point">Массив точек для проверки</param>
+            <returns>True, если точки образуют квадрат, иначе False</returns>
+        </member>
+        <member name="M:FigureLibrary.Circle.Distance(FigureLibrary.Point,FigureLibrary.Point)">
+            <summary>
+            Вычисляет расстояние между двумя точками
+            </summary>
+            <param name="p1">Первая точка</param>
+            <param name="p2">Вторая точка</param>
+            <returns>Расстояние между точками.</returns>
+        </member>
+        <member name="M:FigureLibrary.Circle.IsValid">
+            <summary>
+            Проверяет валидность окружности
+            Окружность считается валидной, если радиус положителен и точки образуют квадрат
+            </summary>
+            <returns>True, если окружность валидна, иначе False</returns>
+        </member>
+        <member name="M:FigureLibrary.Circle.GetLength">
+            <summary>
+            Вычисляет длину окружности
+            </summary>
+            <returns>Длина окружности</returns>
+            <exception cref="T:System.InvalidOperationException">Вызывается, если окружность не валидна</exception>
+        </member>
+        <member name="M:FigureLibrary.Circle.GetArea">
+            <summary>
+            Вычисляет площадь круга
+            </summary>
+            <returns>Площадь круга</returns>
+            <exception cref="T:System.InvalidOperationException">Вызывается, если окружность не валидна</exception>
+        </member>
+        <member name="M:FigureLibrary.Circle.IsPointOnBorder(FigureLibrary.Point)">
+            <summary>
+            Проверяет, находится ли точка на границе окружности
+            </summary>
+            <param name="point">Точка для проверки</param>
+            <returns>True, если точка находится на границе окружности; иначе False</returns>
+            <exception cref="T:System.InvalidOperationException">Вызывается, если окружность не валидна</exception>
+        </member>
+        <member name="M:FigureLibrary.Circle.IsPointInFigure(FigureLibrary.Point)">
+            <summary>
+            Проверяет, находится ли точка внутри окружности
+            </summary>
+            <param name="point">Точка для проверки.</param>
+            <returns>True, если точка находится внутри окружности; иначе False</returns>
+            <exception cref="T:System.InvalidOperationException">Вызывается, если окружность не валидна</exception>
+        </member>
+        <member name="T:FigureLibrary.Figure">
+            <summary>
+            Абстрактный базовый класс для геометрических фигур
+            </summary>
+        </member>
+        <member name="F:FigureLibrary.Figure.points">
+            <summary>
+            Массив точек, определяющих фигуру
+            </summary>
+        </member>
+        <member name="M:FigureLibrary.Figure.#ctor(FigureLibrary.Point[])">
+            <summary>
+            Инициализирует новый экземпляр класса Figure с указанными точками
+            </summary>
+            <param name="points">Массив точек, определяющих фигуру</param>
+        </member>
+        <member name="M:FigureLibrary.Figure.GetArea">
+            <summary>
+            Вычисляет площадь фигуры
+            </summary>
+            <returns>Площадь фигуры</returns>
+        </member>
+        <member name="M:FigureLibrary.Figure.GetLength">
+            <summary>
+            Вычисляет периметр или длину фигуры
+            </summary>
+            <returns>Периметр или длина фигуры</returns>
+        </member>
+        <member name="M:FigureLibrary.Figure.IsValid">
+            <summary>
+            Проверяет валидность фигуры
+            </summary>
+            <returns>True если фигура валидна, иначе False</returns>
+        </member>
+        <member name="M:FigureLibrary.Figure.IsPointOnBorder(FigureLibrary.Point)">
+            <summary>
+            Проверяет находится ли точка на границе фигуры
+            </summary>
+            <param name="point">Точка для проверки</param>
+            <returns>True если точка на границе, иначе False</returns>
+        </member>
+        <member name="M:FigureLibrary.Figure.IsPointInFigure(FigureLibrary.Point)">
+            <summary>
+            Проверяет находится ли точка внутри фигуры
+            </summary>
+            <param name="point">Точка для проверки</param>
+            <returns>True если точка внутри фигуры, иначе False</returns>
+        </member>
+        <member name="T:FigureLibrary.Point">
+            <summary>
+            Структура, представляющая точку в двумерном пространстве
+            </summary>
+        </member>
+        <member name="F:FigureLibrary.Point.x">
+            <summary>
+            Координата X точки
+            </summary>
+        </member>
+        <member name="F:FigureLibrary.Point.y">
+            <summary>
+            Координата Y точки
+            </summary>
+        </member>
+        <member name="M:FigureLibrary.Point.#ctor(System.Double,System.Double)">
+            <summary>
+            Инициализирует новый экземпляр структуры Point с указанными координатами
+            </summary>
+            <param name="x">Координата X</param>
+            <param name="y">Координата Y</param>
+        </member>
+    </members>
+</doc>

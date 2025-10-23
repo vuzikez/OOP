@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\OPP\\laba2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B70E3D7D-6A19-4A00-BA72-B552494A08F1}|MatrixTypeTests\\MatrixTypeTests.csproj|e:\\opp\\laba2\\matrixtypetests\\typetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B70E3D7D-6A19-4A00-BA72-B552494A08F1}|MatrixTypeTests\\MatrixTypeTests.csproj|solutionrelative:matrixtypetests\\typetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821481AF-B88B-4E13-AA16-B8FB0AFF575A}|Overload\\MatrixApp.csproj|e:\\opp\\laba2\\overload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821481AF-B88B-4E13-AA16-B8FB0AFF575A}|Overload\\MatrixApp.csproj|solutionrelative:overload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{500142AD-8679-48D5-9413-1E08343E8F73}|MatrixType\\MatrixType.csproj|e:\\opp\\laba2\\matrixtype\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500142AD-8679-48D5-9413-1E08343E8F73}|MatrixType\\MatrixType.csproj|solutionrelative:matrixtype\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TypeTests.cs",
+              "DocumentMoniker": "E:\\OPP\\laba2\\MatrixTypeTests\\TypeTests.cs",
+              "RelativeDocumentMoniker": "MatrixTypeTests\\TypeTests.cs",
+              "ToolTip": "E:\\OPP\\laba2\\MatrixTypeTests\\TypeTests.cs",
+              "RelativeToolTip": "MatrixTypeTests\\TypeTests.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAkwA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T18:06:37.266Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Matrix.cs",
+              "DocumentMoniker": "E:\\OPP\\laba2\\MatrixType\\Matrix.cs",
+              "RelativeDocumentMoniker": "MatrixType\\Matrix.cs",
+              "ToolTip": "E:\\OPP\\laba2\\MatrixType\\Matrix.cs",
+              "RelativeToolTip": "MatrixType\\Matrix.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAowEQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T20:28:33.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\OPP\\laba2\\Overload\\Program.cs",
+              "RelativeDocumentMoniker": "Overload\\Program.cs",
+              "ToolTip": "E:\\OPP\\laba2\\Overload\\Program.cs",
+              "RelativeToolTip": "Overload\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T20:19:04.993Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

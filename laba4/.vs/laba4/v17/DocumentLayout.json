@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\OPP\\laba4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC17A04-B259-49E1-A9EA-5CC943AA24BC}|NumberApplication\\NumberApplication.csproj|f:\\opp\\laba4\\numberapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC17A04-B259-49E1-A9EA-5CC943AA24BC}|NumberApplication\\NumberApplication.csproj|solutionrelative:numberapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B987310-B7C0-4F3E-B518-262378843105}|NumStrLibrary\\NumStrLibrary.csproj|f:\\opp\\laba4\\numstrlibrary\\strnumlib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B987310-B7C0-4F3E-B518-262378843105}|NumStrLibrary\\NumStrLibrary.csproj|solutionrelative:numstrlibrary\\strnumlib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045C7DC9-23ED-447C-ACE1-07AD7ECB8805}|TestProject1\\TestProject1.csproj|f:\\opp\\laba4\\testproject1\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045C7DC9-23ED-447C-ACE1-07AD7ECB8805}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\OPP\\laba4\\StringApplication\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StringApplication\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StrNumLib.cs",
+              "DocumentMoniker": "F:\\OPP\\laba4\\NumStrLibrary\\StrNumLib.cs",
+              "RelativeDocumentMoniker": "NumStrLibrary\\StrNumLib.cs",
+              "ToolTip": "F:\\OPP\\laba4\\NumStrLibrary\\StrNumLib.cs",
+              "RelativeToolTip": "NumStrLibrary\\StrNumLib.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T06:55:24.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "F:\\OPP\\laba4\\TestProject1\\Test1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Test1.cs",
+              "ToolTip": "F:\\OPP\\laba4\\TestProject1\\Test1.cs",
+              "RelativeToolTip": "TestProject1\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T16:32:36.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\OPP\\laba4\\StringApplication\\Program.cs",
+              "RelativeDocumentMoniker": "StringApplication\\Program.cs",
+              "ToolTip": "F:\\OPP\\laba4\\StringApplication\\Program.cs",
+              "RelativeToolTip": "StringApplication\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T09:09:02.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\OPP\\laba4\\NumberApplication\\Program.cs",
+              "RelativeDocumentMoniker": "NumberApplication\\Program.cs",
+              "ToolTip": "F:\\OPP\\laba4\\NumberApplication\\Program.cs",
+              "RelativeToolTip": "NumberApplication\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T11:06:19.764Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

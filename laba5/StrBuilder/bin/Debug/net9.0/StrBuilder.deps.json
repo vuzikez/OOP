@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "StrBuilder/1.0.0": {
+        "dependencies": {
+          "StrBuilderIPv4": "1.0.0"
+        },
+        "runtime": {
+          "StrBuilder.dll": {}
+        }
+      },
+      "StrBuilderIPv4/1.0.0": {
+        "runtime": {
+          "StrBuilderIPv4.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StrBuilder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StrBuilderIPv4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

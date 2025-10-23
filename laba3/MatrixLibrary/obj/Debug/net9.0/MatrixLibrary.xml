@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MatrixLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:MatrixLibrary.Matrix">
+            <summary>
+            Класс, представляющий матрицу и операции над ней.
+            </summary>
+        </member>
+        <member name="P:MatrixLibrary.Matrix.CountRows">
+            <summary>
+            Количество строк в матрице.
+            </summary>
+        </member>
+        <member name="P:MatrixLibrary.Matrix.CountColumns">
+            <summary>
+            Количество столбцов в матрице.
+            </summary>
+        </member>
+        <member name="M:MatrixLibrary.Matrix.#ctor(System.Int32[0:,0:],System.String)">
+            <summary>
+            Создает новый экземпляр класса <see cref="T:MatrixLibrary.Matrix"/>.
+            </summary>
+            <param name="matrix">Двумерный массив значений матрицы.</param>
+            <param name="nameMatrix">Имя матрицы.</param>
+            <exception cref="T:System.ArgumentNullException">Выбрасывается, если <paramref name="matrix"/> или <paramref name="nameMatrix"/> равны null.</exception>
+        </member>
+        <member name="P:MatrixLibrary.Matrix.Item(System.Int32,System.Int32)">
+            <summary>
+            Доступ к элементам матрицы по индексу.
+            </summary>
+            <param name="row">Номер строки (начиная с 0).</param>
+            <param name="col">Номер столбца (начиная с 0).</param>
+            <returns>Значение элемента матрицы.</returns>
+        </member>
+        <member name="M:MatrixLibrary.Matrix.InputMatrix">
+            <summary>
+            Ввод матрицы с консоли.
+            </summary>
+            <returns>Двумерный массив, заполненный значениями из консоли.</returns>
+        </member>
+        <member name="M:MatrixLibrary.Matrix.Print">
+            <summary>
+            Вывод матрицы на консоль.
+            </summary>
+        </member>
+        <member name="M:MatrixLibrary.Matrix.op_True(MatrixLibrary.Matrix)">
+            <summary>
+            Определяет, является ли матрица "истиной" (если есть хотя бы один ненулевой элемент).
+            </summary>
+            <param name="m">Матрица для проверки.</param>
+            <returns><c>true</c>, если хотя бы один элемент матрицы не равен нулю, иначе <c>false</c>.</returns>
+        </member>
+        <member name="M:MatrixLibrary.Matrix.op_False(MatrixLibrary.Matrix)">
+            <summary>
+            Определяет, является ли матрица "ложью" (все элементы равны нулю).
+            </summary>
+            <param name="m">Матрица для проверки.</param>
+            <returns><c>true</c>, если все элементы равны нулю, иначе <c>false</c>.</returns>
+        </member>
+        <member name="M:MatrixLibrary.Matrix.op_Addition(MatrixLibrary.Matrix,MatrixLibrary.Matrix)">
+            <summary>
+            Операция сложения двух матриц одинакового размера.
+            </summary>
+            <param name="a">Первая матрица.</param>
+            <param name="b">Вторая матрица.</param>
+            <returns>Новая матрица, являющаяся результатом сложения.</returns>
+            <exception cref="T:System.ArgumentException">Выбрасывается, если размеры матриц не совпадают.</exception>
+        </member>
+        <member name="M:MatrixLibrary.Matrix.MulOfNegatives">
+            <summary>
+            Вычисляет произведение всех отрицательных элементов матрицы.
+            </summary>
+            <returns>Произведение отрицательных чисел, либо 0, если их нет.</returns>
+        </member>
+        <member name="M:MatrixLibrary.Matrix.MulOfNegatives(System.String)">
+            <summary>
+            Вычисляет произведение всех отрицательных элементов матрицы с выводом результата.
+            </summary>
+            <param name="matrixName">Имя матрицы для отображения в консоли.</param>
+            <returns>Произведение отрицательных чисел, либо 0, если их нет.</returns>
+        </member>
+        <member name="M:MatrixLibrary.Matrix.IncreaseNegatives(System.Int32)">
+            <summary>
+            Увеличивает все отрицательные элементы матрицы на указанное значение.
+            </summary>
+            <param name="addValue">Значение, на которое увеличиваются отрицательные элементы.</param>
+        </member>
+        <member name="M:MatrixLibrary.Matrix.MinLastRow">
+            <summary>
+            Возвращает минимальный элемент последней строки матрицы.
+            </summary>
+            <returns>Минимальное значение в последней строке.</returns>
+        </member>
+    </members>
+</doc>

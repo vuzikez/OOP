@@ -1,0 +1,11 @@
+F:\OPP\laba4\NumStrLibrary\bin\Debug\net9.0\NumStrLibrary.deps.json
+F:\OPP\laba4\NumStrLibrary\bin\Debug\net9.0\NumStrLibrary.dll
+F:\OPP\laba4\NumStrLibrary\bin\Debug\net9.0\NumStrLibrary.pdb
+F:\OPP\laba4\NumStrLibrary\obj\Debug\net9.0\NumStrLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\OPP\laba4\NumStrLibrary\obj\Debug\net9.0\NumStrLibrary.AssemblyInfoInputs.cache
+F:\OPP\laba4\NumStrLibrary\obj\Debug\net9.0\NumStrLibrary.AssemblyInfo.cs
+F:\OPP\laba4\NumStrLibrary\obj\Debug\net9.0\NumStrLibrary.csproj.CoreCompileInputs.cache
+F:\OPP\laba4\NumStrLibrary\obj\Debug\net9.0\NumStrLibrary.dll
+F:\OPP\laba4\NumStrLibrary\obj\Debug\net9.0\refint\NumStrLibrary.dll
+F:\OPP\laba4\NumStrLibrary\obj\Debug\net9.0\NumStrLibrary.pdb
+F:\OPP\laba4\NumStrLibrary\obj\Debug\net9.0\ref\NumStrLibrary.dll

@@ -1,0 +1,13 @@
+G:\OPP\lab3\MatrixLibrary\bin\Release\net9.0\MatrixLibrary.deps.json
+G:\OPP\lab3\MatrixLibrary\bin\Release\net9.0\MatrixLibrary.dll
+G:\OPP\lab3\MatrixLibrary\bin\Release\net9.0\MatrixLibrary.pdb
+G:\OPP\lab3\MatrixLibrary\bin\Release\net9.0\MatrixLibrary.xml
+G:\OPP\lab3\MatrixLibrary\obj\Release\net9.0\MatrixLibrary.GeneratedMSBuildEditorConfig.editorconfig
+G:\OPP\lab3\MatrixLibrary\obj\Release\net9.0\MatrixLibrary.AssemblyInfoInputs.cache
+G:\OPP\lab3\MatrixLibrary\obj\Release\net9.0\MatrixLibrary.AssemblyInfo.cs
+G:\OPP\lab3\MatrixLibrary\obj\Release\net9.0\MatrixLibrary.csproj.CoreCompileInputs.cache
+G:\OPP\lab3\MatrixLibrary\obj\Release\net9.0\MatrixLibrary.dll
+G:\OPP\lab3\MatrixLibrary\obj\Release\net9.0\refint\MatrixLibrary.dll
+G:\OPP\lab3\MatrixLibrary\obj\Release\net9.0\MatrixLibrary.xml
+G:\OPP\lab3\MatrixLibrary\obj\Release\net9.0\MatrixLibrary.pdb
+G:\OPP\lab3\MatrixLibrary\obj\Release\net9.0\ref\MatrixLibrary.dll

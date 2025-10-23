@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\OPP\\Laba5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60E04A3D-551F-4641-A2D0-86846D9C5E66}|StrBuilderIPv4\\StrBuilderIPv4.csproj|f:\\opp\\laba5\\strbuilderipv4\\strbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E04A3D-551F-4641-A2D0-86846D9C5E66}|StrBuilderIPv4\\StrBuilderIPv4.csproj|solutionrelative:strbuilderipv4\\strbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989D10F6-4423-4726-A443-FB5799BF0C0B}|StrBuilder\\StrBuilder.csproj|f:\\opp\\laba5\\strbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{989D10F6-4423-4726-A443-FB5799BF0C0B}|StrBuilder\\StrBuilder.csproj|solutionrelative:strbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E869FA08-8318-4A40-BB33-56428DF94F04}|TestProject1\\TestProject1.csproj|f:\\opp\\laba5\\testproject1\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E869FA08-8318-4A40-BB33-56428DF94F04}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "F:\\OPP\\Laba5\\TestProject1\\Test1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Test1.cs",
+              "ToolTip": "F:\\OPP\\Laba5\\TestProject1\\Test1.cs",
+              "RelativeToolTip": "TestProject1\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T16:46:58.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StrBuilder.cs",
+              "DocumentMoniker": "F:\\OPP\\Laba5\\StrBuilderIPv4\\StrBuilder.cs",
+              "RelativeDocumentMoniker": "StrBuilderIPv4\\StrBuilder.cs",
+              "ToolTip": "F:\\OPP\\Laba5\\StrBuilderIPv4\\StrBuilder.cs",
+              "RelativeToolTip": "StrBuilderIPv4\\StrBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T16:42:31.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\OPP\\Laba5\\StrBuilder\\Program.cs",
+              "RelativeDocumentMoniker": "StrBuilder\\Program.cs",
+              "ToolTip": "F:\\OPP\\Laba5\\StrBuilder\\Program.cs",
+              "RelativeToolTip": "StrBuilder\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T09:14:27.678Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
